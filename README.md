@@ -13,7 +13,7 @@ Desenvolvimento de uma versão web de uma experiência de receita junina.
 <br>
 
 <p align="center">
-  <img src=".github/Recipe.jpg" width="100%">
+  <img src=".github/Recipe.jpg" width="50%">
 </p>
 
 <br>
@@ -31,7 +31,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## DEMO
 
-https://github.com/Ciro-TI-System/Page-Not-Found/assets/78507494/4ca46bba-e82a-469d-9931-22f081fae7a5
+https://github.com/Ciro-TI-System/A-June-Recipe/assets/78507494/1ef85943-4ad8-4104-8f27-90a1d8d1b53a
 
 ## 🔖 Layout
 
